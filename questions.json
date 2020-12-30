@@ -1,30 +1,172 @@
+
 [
   {
-    "question": "Cal é a mellor provincia?",
-    "choice1": "Lugo",
-    "choice2": "A Coruña",
-    "choice3": "Pontevedra",
-    "choice4": "Ourense"
+    "question": "A palabra electricidade vén do grego elektron, que significa...",
+    "choice1": "ámbar",
+    "choice2": "electricidade",
+    "choice3": "imán",
+    "choice4": "lóstrego"
   },
   {
-    "question": "Cal é unha comida rica?",
-    "choice1": "Zorza",
-    "choice2": "Brécol",
-    "choice3": "Acelgas",
-    "choice4": "Xudías"
+    "question": "Cando dicimos que se dá comezo ao uso da electricidade de xeito comercial?",
+    "choice1": "A finais do século XIX, coa lámpada eléctrica",
+    "choice2": "Na época dos antiguos gregos",
+    "choice3": "Coa revolución científica, a finais do século XVIII",
+    "choice4": "A mediados do século XX, coa invención do transistor"
   },
   {
-    "question": "Quen mola?",
-    "choice1": "Tucho",
-    "choice2": "Robespierre",
-    "choice3": "Iker Casillas",
-    "choice4": "Zapatero"
+    "question": "A experimentación científica coa electricidade comezou, aproximadamente...",
+    "choice1": "A finais do século XVIII",
+    "choice2": "A finais do século XIX",
+    "choice3": "A principios do século XX",
+    "choice4": "A finais do século XVII"
   },
   {
-    "question": "Onde dan boas Tapas?",
-    "choice1": "Lugo",
-    "choice2": "A Coruña",
-    "choice3": "Pontevedra",
-    "choice4": "Ourense"
-  }
+    "question": "A implantación e desenvolvemento comercial da electricidade comezou coa lámpada eléctrica...",
+    "choice1": "A finais do século XIX",
+    "choice2": "A comezos do século XX",
+    "choice3": "A mediados do século XX",
+    "choice4": "A comezos do século XIX"
+  },
+  {
+    "question": "A era da información e a comunicación tamén se desenvolve sobre a electricidade, e o compoñente fundamental sobre o que se asenta é...",
+    "choice1": "O transistor",
+    "choice2": "A lámpada eléctrica",
+    "choice3": "O electroimán",
+    "choice4": "O relé"
+  },
+  {
+    "question": "Cando está cargado un corpo?",
+    "choice1": "cando ten máis cargas dun signo que doutro",
+    "choice2": "cando ten igual número de cargas positivas e negativas",
+    "choice3": "cando ten máis cargas positivas que negativas",
+    "choice4": "cando ten máis cargas negativas que positivas"
+  },
+  {
+    "question": "Cal é a unidade de carga?",
+    "choice1": "O Coulomb",
+    "choice2": "O Vatio",
+    "choice3": "O Joule",
+    "choice4": "O Amperio"
+  },
+  {
+    "question": "Que partículas do átomo están cargadas?",
+    "choice1": "os electróns, negativamente, e os protóns, positivamente",
+    "choice2": "os electróns, negativamente, e os neutróns, positivamente",
+    "choice3": "os protóns, positivamente, e os neutróns, negativamente",
+    "choice4": "os electróns, positivamente, e os protóns, negativamente"
+  },
+  {
+    "question": "Que é unha corrente eléctrica?",
+    "choice1": "Un fluxo de electróns a través dun medio",
+    "choice2": "Un fluxo de protóns a través dun medio",
+    "choice3": "Un conxunto de electróns en movemento",
+    "choice4": "Un desprazamento de calquera tipo de partículas eléctricas"
+  },
+  {
+    "question": "Cal é un material condutor",
+    "choice1": "O aluminio",
+    "choice2": "A auga destilada",
+    "choice3": "O aire",
+    "choice4": "O plástico"
+  },
+  {
+    "question": "Un material illante presentará",
+    "choice1": "Unha resistencia moi alta",
+    "choice2": "Unha resistencia moi baixa",
+    "choice3": "Unha conductividade moi baixa",
+    "choice4": "Unha enerxía específica moi alta"
+  },
+  {
+     "question": "Que fenómeno dicimos que é outra expresión da electricidade?",
+     "choice1": "O magnetismo",
+     "choice2": "A calor",
+     "choice3": "A luz",
+     "choice4": "O movemento"
+   },
+  {
+    "question": "Os efectos da corrente eléctrica que nomeamos son:",
+    "choice1": "Luz, calor, movemento e son.",
+    "choice2": "Electromagnetismo, luz, calor e movemento.",
+    "choice3": "Electroluminiscencia, calor, movemento e son.",
+    "choice4": "Enerxía, movemento, calor e son"
+  },
+  {
+    "question": "Cal non se corresponde coa corrente continua?",
+    "choice1": "adoitamos manexar grandes voltaxes con ela",
+    "choice2": "Sempre ten o mesmo sentido",
+    "choice3": "é a que proporcionan as baterías e pilas",
+    "choice4": "podemos obtela de adaptadores de rede"
+  },
+  {
+    "question": "Que aparato funciona con Corrente Alterna?",
+    "choice1": "Lavadora",
+    "choice2": "Ordenador",
+    "choice3": "Reloxio dixital",
+    "choice4": "Teléfono móbil"
+  },
+  {
+    "question": "Que nos indica a Voltaxe dun xerador?",
+    "choice1": "A enerxía que nos pode proporcionar cada unidade de carga",
+    "choice2": "A oposición que este exercerá fronte ao corrente que o atravesa",
+    "choice3": "Que cantidade de electróns nos dará nunha unidade de tempo.",
+    "choice4": "A enerxía que nos proporcionará ese xerador por unidade de tempo"
+  },
+  {
+    "question": "Que é a Intensidade dunha corrente?",
+    "choice1": "A cantidade de electróns que pasan por un punto nun tempo determinado",
+    "choice2": "A diferencia de enerxía electromotriz entre dúas partículas con carga oposta",
+    "choice3": "A oposición que presenta un material a ser atravesado polos electróns",
+    "choice4": "A enerxía producida polos electróns ao atravesar un compoñente determinado"
+  },
+  {
+    "question": "Cal destas é unha expresión CORRECTA da Lei de Ohm?",
+    "choice1": "R=V/I",
+    "choice2": "R=I/V",
+    "choice3": "R=V·I",
+    "choice4": "R.V=I"
+  },
+  {
+      "question": "Cal das seguintes sería unha expresión incorrecta da lei de Ohm?",
+      "choice1": "R=I.V",
+      "choice2": "I=V/R",
+      "choice3": "I.R=V",
+      "choice4": "R=V/I"
+    },
+  {
+      "question": "Conecto unha resistencia de 100 Ω nun circuíto cunha pila de 9 V. Que intensidade circula?",
+      "choice1": "0,09 A",
+      "choice2": "900 A",
+      "choice3": "0,9 A",
+      "choice4": "11,11 A"
+    },
+  {
+      "question": "Comprobo que a intensidade que circula por un circuíto é de 2 A e vexo que está alimentado a 6V. Que resistencia hai no circuíto?",
+      "choice1": "3Ω",
+      "choice2": "12Ω",
+      "choice3": "0,33Ω",
+      "choice4": "2/6Ω"
+    },
+  {
+      "question": "Nun circuíto cunha resistencia de 100 Ω comprobo que a intensidade é de 0,5 A. Cal é a voltaxe?",
+      "choice1": "50V",
+      "choice2": "200V",
+      "choice3": "5V",
+      "choice4": "0,005V"
+    },
+  {
+      "question": "Que potencia eléctrica xerará un compoñente que funcione a 3 V e 2 A?",
+      "choice1": "6W",
+      "choice2": "5W",
+      "choice3": "1,5W",
+      "choice4": "0,67W"
+    },
+
+  {
+      "question": "Que calor nos dará un circuíto durante 10 segundos, se a voltaxe é de 9 V e a intensidade de 2A?",
+      "choice1": "180 J",
+      "choice2": "1,8 J",
+      "choice3": "45 J",
+      "choice4": "4,5 J"
+    }
 ]
