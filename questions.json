@@ -1,0 +1,30 @@
+[
+  {
+    "question": "Cal é a mellor provincia?",
+    "choice1": "Lugo",
+    "choice2": "A Coruña",
+    "choice3": "Pontevedra",
+    "choice4": "Ourense"
+  },
+  {
+    "question": "Cal é unha comida rica?",
+    "choice1": "Zorza",
+    "choice2": "Brécol",
+    "choice3": "Acelgas",
+    "choice4": "Xudías"
+  },
+  {
+    "question": "Quen mola?",
+    "choice1": "Tucho",
+    "choice2": "Robespierre",
+    "choice3": "Iker Casillas",
+    "choice4": "Zapatero"
+  },
+  {
+    "question": "Onde dan boas Tapas?",
+    "choice1": "Lugo",
+    "choice2": "A Coruña",
+    "choice3": "Pontevedra",
+    "choice4": "Ourense"
+  }
+]
