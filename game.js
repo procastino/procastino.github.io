@@ -1,8 +1,11 @@
 const question = document.getElementById('question');
+const questionImage = document.getElementById('questionImage');
 const choices = Array.from(document.getElementsByClassName('choice-text'));
 const progressText = document.getElementById('progressText');
 const scoreText = document.getElementById('score');
 const progressBarFull = document.getElementById('progressBarFull');
+const questionBanks = ["electricidade.json","electronica.json"]
+var questionBank = "yy";
 let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
@@ -31,8 +34,15 @@ function shuffle(array) {
 
   //return array;
 }
-
-fetch('questions.json')
+// esta chámase desde index.html e garda questionBank no localStorage
+function setQuestionBank(bank) {
+  questionBank = questionBanks[bank];
+  localStorage.setItem('questionBank', questionBank);
+}
+// esta supoño que se executa sempre, pero creo que non se contradi
+// e toma o valor de questionBank do localStorage
+questionBank = localStorage.getItem('questionBank');
+fetch(questionBank)
     .then((res) => {
         return res.json();
     })
@@ -62,13 +72,14 @@ getNewQuestion = () => {
         return window.location.assign('end.html');
     }
     questionCounter++;
-    progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
+    progressText.innerText = `Pregunta ${questionCounter}/${MAX_QUESTIONS}`;
     //Update the progress bar
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
     const questionIndex = Math.floor(Math.random() * availableQuesions.length);
     currentQuestion = availableQuesions[questionIndex];
     question.innerText = currentQuestion.question;
+    questionImage.src = currentQuestion.image;
 
     //shuffle(choices);
     var numbersIndex = 0;

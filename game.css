@@ -33,6 +33,11 @@
   background-color: #dc3545;
 }
 
+/*Imaxe*/
+#questionImage {
+  margin-bottom: 2rem;
+}
+
 /* HUD */
 
 #hud {

@@ -1,0 +1,99 @@
+[
+  {
+    "question": "Que cores terá unha resistencia de 56Ω?",
+    "choice1": "verde -azul - negro",
+    "choice2": "verde - azul",
+    "choice3": "verde - azul - marrón",
+    "choice4": "verde - azul - vermello"
+  },
+  {
+    "question": "Que valor terá unha resistencia de cores marrón - negro - vermello?",
+    "choice1": "1000Ω",
+    "choice2": "1100Ω",
+    "choice3": "10000Ω",
+    "choice4": "100Ω"
+  },
+  {
+    "question": "Que cores terá unha resistencia de 6,8 KΩ?",
+    "choice1": "azul - gris - vermello",
+    "choice2": "azul - gris - laranxa",
+    "choice3": "azul - gris - marrón",
+    "choice4": "azul - gris - negro"
+  },
+  {
+    "question": "Que valor terá unha resistencia laranxa - branco - verde?",
+    "choice1": "as outras respostas son o mesmo valor expresado de xeito diferente",
+    "choice2": "3,9 MΩ",
+    "choice3": "3M9 Ω",
+    "choice4": "3 900 000 Ω"
+  },
+  {
+    "question": "Que me indica a banda de tolerancia dunha resistencia?",
+    "choice1": "A precisión no valor da resistencia",
+    "choice2": "A voltaxe máxima que pode tolerar sen queimarse",
+    "choice3": "O número de ceros do valor da resistencia",
+    "choice4": "A intensidade máxima que pode tolerar sen queimarse"
+  },
+  {
+    "question": "Cal é falsa para unha LDR?",
+    "choice1": "Só detecta a luz natural",
+    "choice2": "Cando lle dá máis luz, a súa resistencia disminúe.",
+    "choice3": "O seu nome é un acrónimo de Light Dependant Resistor",
+    "choice4": "Podería empregarse para facer un circuíto no que un led acenda cando hai luz"
+  },
+  {
+    "question": "Cal é falsa para un potenciómetro?",
+    "choice1": "A roda coa que se sintoniza a canle de radio é un potenciómetro",
+    "choice2": "Os máis comúns, que usamos nas prácticas, teñen tres terminais",
+    "choice3": "Teñen interiormente unha banda de grafito",
+    "choice4": "Ao mover o mando, a resistencia varía entre o terminal central e os dos extremos"
+  },
+  {
+    "question": "Cal é falsa para un díodo?",
+    "choice1": "Podo conectalos en calquera sentido nun circuíto",
+    "choice2": "Impiden o paso da corrente nun sentido",
+    "choice3": "Teñen un ánodo e un cátodo",
+    "choice4": "Están feitos con materiais semicondutores, como os transistores"
+  },
+  {
+    "question": "Cal é falsa para un LED?",
+    "choice1": "Mirando ao trasluz, o terminal positivo é a plaquiña máis grande",
+    "choice2": "O terminal negativo é o que ten a patilla máis curta",
+    "choice3": "O terminal negativo ten recortado o reborde da cápsula",
+    "choice4": "Os seus datos de funcionamento poden ser consultados na folla de especificacións"
+  }, {
+    "question": "Teño un circuíto cun condensador que se descarga a través dunha resistencia. De que dependerá o tempo que tarda en descargarse?",
+    "choice1": "Da capacidade do condensador e da resistencia pola que se descarga",
+    "choice2": "Da capacidade do condensador, da resistencia pola que se descarga e da voltaxe de alimentación",
+    "choice3": "Da resistencia pola que se descarga",
+    "choice4": "Da capacidade do condensador"
+  },
+  {
+    "question": "Cal é a unidade na que se mide a capacidade dun condensador?",
+    "choice1": "Faradios e os seus múltiplos",
+    "choice2": "Coulombs e os seus múltiplos",
+    "choice3": "Amperios e os seus múltiplos",
+    "choice4": "Henrios e os seus múltiplos"
+  },
+  {
+    "question": "Que nos indica a voltaxe que aparece no encapsulado dun condensador electrolítico?",
+    "choice1": "A voltaxe máxima de funcionamento do condensador",
+    "choice2": "A voltaxe que caerá nese condensador",
+    "choice3": "A voltaxe mínima de funcionamento do condensador",
+    "choice4": "A voltaxe óptima de funcionamento do condensador"
+  },
+  {
+    "question": "Cal é o tipo de condensador non polarizado máis común?",
+    "choice1": "cerámico",
+    "choice2": "plástico",
+    "choice3": "de tántalo",
+    "choice4": "electrolítico"
+  },
+  {
+    "question": "Cal será a capacidade equivalente de tres condensadores de 10 uF colocados en paralelo?",
+    "choice1": "30 uF",
+    "choice2": "10 uF",
+    "choice3": "1000 uF",
+    "choice4": "3,33 uF"
+  }
+  ]
