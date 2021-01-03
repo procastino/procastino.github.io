@@ -18,7 +18,7 @@ Evidentemente, moitísimas cousas, algunhas pode que chegue a conseguilas algún
 * Os resultados non son gardados para o alumno nin poden ser enviados ao profesor.
 * Non se pode modificar o tipo de pregunta, múltipla escolla cunha soa resposta correcta.
 * Non podemos asignar unhas preguntas determinadas a un alumno ou grupo deles.
-##Roadmap
+## Roadmap
 Creo que así di a xente que fai proxectos de software cando quere poñer as cousas que pensa facer no futuro. De toda esta lista, o máis probable é que o 90% se quede no tinteiro.
 * (check) Engadir bloques de preguntas e crear un sistema de organización de temas, cursos e materias.
 * Que o usuario poida decidir cantas preguntas facer en cada test
