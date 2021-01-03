@@ -1,0 +1,191 @@
+[
+  {
+    "question": "Cal delas NON corresponde a un circuíto eléctrico?",
+    "image": "",
+    "choice1": "Se produce sempre que hai unha corrente eléctrica.",
+    "choice2": "Sempre ten que haber un elemento que forneza enerxía eléctrica.",
+    "choice3": "Sempre produce calor.",
+    "choice4": "Sempre haberá algunha transformación de enerxía.",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Cales son os tipos de elementos que podo atopar nun circuíto eléctrico?",
+    "image": "",
+    "choice1": "Xeradores, condutores, receptores e elementos de control",
+    "choice2": "Xeradores, condutores, aparatos eléctricos e elementos de control",
+    "choice3": "Xeradores, cables, interruptores e conmutadores",
+    "choice4": "Pilas, cables, resistencias e interruptores",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "",
+    "image": "",
+    "choice1": "",
+    "choice2": "",
+    "choice3": "",
+    "choice4": "",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Como están conectadas as resistencias da figura?",
+    "image": "images/3ResisSerie.png",
+    "choice1": "Serie",
+    "choice2": "Liña",
+    "choice3": "Paralelo",
+    "choice4": "Mixto",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Se xuntamos dúas pilas de 1,5V deste xeito... cal será a voltaxe total?",
+    "image": "images/duasPilasSerie.png",
+    "choice1": "3V",
+    "choice2": "1,5V",
+    "choice3": "0,75V",
+    "choice4": "1,33V",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Se xuntamos dúas resistencias de 4Ω deste xeito... cal será a súa resistencia equivalente?",
+    "image": "images/2ResisParalelo.png",
+    "choice1": "2Ω",
+    "choice2": "4Ω",
+    "choice3": "8Ω",
+    "choice4": "3Ω",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Como se chaman os elementos dun circuíto que fornecen os electróns?",
+    "image": "",
+    "choice1": "Xeradores",
+    "choice2": "Receptores",
+    "choice3": "Condutores",
+    "choice4": "Elementos de control",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Como se chaman os elementos dun circuíto que transforman a electricidade noutro tipo de enerxía?",
+    "image": "",
+    "choice1": "Receptores",
+    "choice2": "Xeradores",
+    "choice3": "Transformadores",
+    "choice4": "Elementos de control",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Como se chaman os elementos dun circuíto que permiten o paso da corrente entre un compoñente e outro?",
+    "image": "",
+    "choice1": "Condutores",
+    "choice2": "Xeradores",
+    "choice3": "Elementos de control",
+    "choice4": "Receptores",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Como se chaman os elementos dun circuíto que nos permiten facer que a corrente circule por onde nós queremos?",
+    "image": "",
+    "choice1": "Elementos de control",
+    "choice2": "Xeradores",
+    "choice3": "Condutores",
+    "choice4": "Receptores",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Cal non é un xerador?",
+    "image": "",
+    "choice1": "Motor",
+    "choice2": "Pila",
+    "choice3": "Batería",
+    "choice4": "Toma de rede",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Cal consideramos un condutor?",
+    "image": "",
+    "choice1": "Cable",
+    "choice2": "Interruptor",
+    "choice3": "Pulsador",
+    "choice4": "Aluminio",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Cal non sería un receptor?",
+    "image": "",
+    "choice1": "Pila",
+    "choice2": "Motor",
+    "choice3": "Lámpada",
+    "choice4": "Resistencia",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "Cal non é un elemento de control?",
+    "image": "",
+    "choice1": "Cable",
+    "choice2": "Interruptor",
+    "choice3": "Pulsador",
+    "choice4": "Conmutador",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/pilaSimbolo.png",
+    "choice1": "Batería",
+    "choice2": "Xerador de corrente alterna",
+    "choice3": "Motor",
+    "choice4": "Toma de terra",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/xeradorAC.png",
+    "choice1": "Xerador de corrente alterna",
+    "choice2": "Batería ou pila",
+    "choice3": "Lámpada",
+    "choice4": "Motor eléctrico",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/pulsadorSimbolo.png",
+    "choice1": "pulsador",
+    "choice2": "interruptor",
+    "choice3": "conmutador",
+    "choice4": "pila",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/interruptorSimbolo.png",
+    "choice1": "interruptor",
+    "choice2": "conmutador",
+    "choice3": "pulsador",
+    "choice4": "botón",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/conmutadorSimbolo.png",
+    "choice1": "conmutador",
+    "choice2": "interruptor",
+    "choice3": "pulsador",
+    "choice4": "fusible",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/resistenciaSimbolo.png",
+    "choice1": "resistencia",
+    "choice2": "pila",
+    "choice3": "lámpada",
+    "choice4": "interruptor",
+    "bloque": "circuítos"
+  },
+  {
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/resistenciaSimbolo2.png",
+    "choice1": "resistencia",
+    "choice2": "lámpada",
+    "choice3": "pila",
+    "choice4": "interruptor",
+    "bloque": "circuítos"
+  }
+]

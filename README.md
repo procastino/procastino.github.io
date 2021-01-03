@@ -24,3 +24,4 @@ Creo que así di a xente que fai proxectos de software cando quere poñer as cou
 * Que o usuario poida decidir cantas preguntas facer en cada test
 * (check) Engadir a posibilidade de incluír imaxes para as preguntas
 * Algún tipo de rexistro de resultados para ser analizados
+* Tomar as preguntas directamente do repositorio dos bancos de preguntas
