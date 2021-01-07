@@ -19,3 +19,6 @@ Creo que así di a xente que fai proxectos de software cando quere poñer as cou
 * Que o usuario poida decidir cantas preguntas facer en cada test
 * Algún tipo de rexistro de resultados para ser analizados
 * Tomar as preguntas directamente do repositorio dos bancos de preguntas
+* Poder seleccionar bloques ou coleccións de preguntas.
+* Poder facer todas as preguntas dun bloque por orde.
+* Modo _ultimate_ no que as preguntas incorrectas se repiten ata que se contestan todas ben.

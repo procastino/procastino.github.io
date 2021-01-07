@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Como están conectadas as resistencias da figura?",
+    "image": "images/3ResisParalelo.png",
+    "choice1": "Paralelo",
+    "choice2": "lateral",
+    "choice3": "Serie",
+    "choice4": "mixto"
+  },
+  {
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/3ResisSerie223.png",
+    "choice1": "7Ω",
+    "choice2": "12Ω",
+    "choice3": "6/8Ω",
+    "choice4": "8/6Ω"
+  },
+  {
+    "question": "Cal será o valor da resistencia equivalente?",
+    "image": "images/2ResisParalelo36.png",
+    "choice1": "2Ω",
+    "choice2": "0,5Ω",
+    "choice3": "9Ω",
+    "choice4": "3Ω"
+  },
+  {
+    "question": "Que diferencias de funcionamento haberá entre o circuíto 1 e 2?",
+    "image": "images/2circSimples.png",
+    "choice1": "Ningunha",
+    "choice2": "No circuíto 2, o led acende aínda que non cerremos o interruptor",
+    "choice3": "Os dous leds acenden ao premer o interruptor, pero o 2 un chisco antes",
+    "choice4": "Os dous leds acenden ao premer o interruptor, pero o 1 un chisco antes"
+  },
+  {
+    "question": "Cal é falsa, para o circuíto da figura?",
+    "image": "images/2resisParalelo.png",
+    "choice1": "A intensidade que pasa polas dúas resistencias é a mesma",
+    "choice2": "As dúas resistencias están sometidas á mesma voltaxe",
+    "choice3": "Se desconecto a resistencia -a-, seguirá a pasar corrente pola -b-",
+    "choice4": "A intensidade total do circuíto será a suma da intensidade por -a- e a intensidade por -b-"
+  },
+  {
+    "question": "Como están conectadas as resistencias na breadboard?",
+    "image": "images/brboardSerieParalelo01.png",
+    "choice1": "1 en paralelo, 2 en serie",
+    "choice2": "As dúas en serie",
+    "choice3": "As dúas en paralelo",
+    "choice4": "1 en serie, 2 en paralelo"
+  },
+  {
+    "question": "Como están conectadas as resistencias na breadboard?",
+    "image": "images/brboardSerieParalelo02.png",
+    "choice1": "As dúas en serie",
+    "choice2": "1 en serie, 2 en paralelo",
+    "choice3": "1 en paralelo, 2 en serie",
+    "choice4": "As dúas en paralelo"
+  },
+  {
+    "question": "Por que resistencias pasará corrente?",
+    "image": "images/brboardBenConectadas01.png",
+    "choice1": "Por 1 e 2",
+    "choice2": "Por todas",
+    "choice3": "Por 2 e 3",
+    "choice4": "Por ningunha"
+  },
+  {
+    "question": "Que montaxes se corresponden co esquema?",
+    "image": "images/brboardResisCircuito.png",
+    "choice1": 1,
+    "choice2": 2,
+    "choice3": 3,
+    "choice4": "ningún"
+  },
+  {
+    "question": "Cal é falsa para o circuíto da figura?",
+    "image": "images/2Int3leds.png",
+    "choice1": "Podo acender -c- sen acender -a- e -b-",
+    "choice2": "Co interruptor 1 aberto, non acenderá nada",
+    "choice3": "O interruptor 1 acende -a- e -b-",
+    "choice4": "Cos dous interruptores premidos, acenden todos os leds"
+  }
+]
