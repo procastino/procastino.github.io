@@ -1,27 +1,35 @@
 [
   {
-    "question": "Como están conectadas as resistencias da figura?",
-    "image": "images/3ResisParalelo.png",
-    "choice1": "Paralelo",
-    "choice2": "lateral",
-    "choice3": "Serie",
-    "choice4": "mixto"
+    "question": "Como se chaman os elementos dun circuíto que transforman a electricidade noutro tipo de enerxía?",
+    "image": "",
+    "choice1": "Receptores",
+    "choice2": "Xeradores",
+    "choice3": "Transformadores",
+    "choice4": "Elementos de control"
+  },
+  {
+    "question": "Cal non é un xerador?",
+    "image": "",
+    "choice1": "Motor",
+    "choice2": "Pila",
+    "choice3": "Batería",
+    "choice4": "Toma de rede"
+  },
+  {
+    "question": "A que compoñente se corresponde o símbolo da figura?",
+    "image": "images/zoadorSimbolo.png",
+    "choice1": "zoador",
+    "choice2": "altofalante",
+    "choice3": "motor",
+    "choice4": "Xerador Alterna"
   },
   {
     "question": "Cal será o valor da resistencia equivalente?",
-    "image": "images/3ResisSerie223.png",
-    "choice1": "7Ω",
-    "choice2": "12Ω",
-    "choice3": "6/8Ω",
-    "choice4": "8/6Ω"
-  },
-  {
-    "question": "Cal será o valor da resistencia equivalente?",
-    "image": "images/2ResisParalelo36.png",
+    "image": "images/3ResisParalelo666.png",
     "choice1": "2Ω",
-    "choice2": "0,5Ω",
-    "choice3": "9Ω",
-    "choice4": "3Ω"
+    "choice2": "18Ω",
+    "choice3": "0,5Ω",
+    "choice4": "3/6Ω"
   },
   {
     "question": "Que diferencias de funcionamento haberá entre o circuíto 1 e 2?",
@@ -33,50 +41,42 @@
   },
   {
     "question": "Cal é falsa, para o circuíto da figura?",
-    "image": "images/2resisParalelo.png",
-    "choice1": "A intensidade que pasa polas dúas resistencias é a mesma",
-    "choice2": "As dúas resistencias están sometidas á mesma voltaxe",
-    "choice3": "Se desconecto a resistencia -a-, seguirá a pasar corrente pola -b-",
-    "choice4": "A intensidade total do circuíto será a suma da intensidade por -a- e a intensidade por -b-"
+    "image": "images/2receptoresSerie.png",
+    "choice1": "O led -a- acenderá un chisco antes que o -b-",
+    "choice2": "A intensidade que circula polos dous leds é a mesma",
+    "choice3": "Os dous leds acenderán ao premer o interruptor",
+    "choice4": "Se o led -b- se queima, o -a- deixará de funcionar"
   },
   {
-    "question": "Como están conectadas as resistencias na breadboard?",
-    "image": "images/brboardSerieParalelo01.png",
-    "choice1": "1 en paralelo, 2 en serie",
-    "choice2": "As dúas en serie",
-    "choice3": "As dúas en paralelo",
-    "choice4": "1 en serie, 2 en paralelo"
+    "question": "Por cal resistencia pasará máis intensidade?",
+    "image": "images/3resisParalelo.png",
+    "choice1": "Pola -a-",
+    "choice2": "Pola -b-",
+    "choice3": "Pola -c-",
+    "choice4": "Por todas pasará a mesma"
   },
   {
-    "question": "Como están conectadas as resistencias na breadboard?",
-    "image": "images/brboardSerieParalelo02.png",
-    "choice1": "As dúas en serie",
-    "choice2": "1 en serie, 2 en paralelo",
-    "choice3": "1 en paralelo, 2 en serie",
-    "choice4": "As dúas en paralelo"
+    "question": "Cando pasará corrente pola resistencia?",
+    "image": "images/2IntMixtoTricky.png",
+    "choice1": "Só se 2 está cerrado e 1 abert",
+    "choice2": "Se cerramos 1 e 2",
+    "choice3": "Cerrando o 2, independentemente de como estea 1",
+    "choice4": "Cerrando o 2 ou o 1"
   },
   {
-    "question": "Por que resistencias pasará corrente?",
-    "image": "images/brboardBenConectadas01.png",
-    "choice1": "Por 1 e 2",
-    "choice2": "Por todas",
-    "choice3": "Por 2 e 3",
-    "choice4": "Por ningunha"
+    "question": "Cando acenderá o led verde?",
+    "image": "images/brBoard2PulsXeralSecundario.png",
+    "choice1": "Se teño premidos os dous pulsadores",
+    "choice2": "Se premo o pulsador da dereita",
+    "choice3": "Se premo o pulsador da esquerda",
+    "choice4": "En ningún caso"
   },
   {
-    "question": "Que montaxes se corresponden co esquema?",
-    "image": "images/brboardResisCircuito.png",
-    "choice1": 1,
-    "choice2": 2,
-    "choice3": 3,
-    "choice4": "ningún"
-  },
-  {
-    "question": "Cal é falsa para o circuíto da figura?",
-    "image": "images/2Int3leds.png",
-    "choice1": "Podo acender -c- sen acender -a- e -b-",
-    "choice2": "Co interruptor 1 aberto, non acenderá nada",
-    "choice3": "O interruptor 1 acende -a- e -b-",
-    "choice4": "Cos dous interruptores premidos, acenden todos os leds"
+    "question": "A que esquema se corresponde o circuíto da breadboard?",
+    "image": "images/brBoard2PulsXeralSecEsquemas.png",
+    "choice1": "Ao rosa",
+    "choice2": "Ao azul",
+    "choice3": "Ao verde",
+    "choice4": "Ao laranxa"
   }
 ]
