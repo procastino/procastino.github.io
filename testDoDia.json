@@ -74,7 +74,7 @@
   {
     "question": "Quero que o led acenda cando premo o pulsador. Hai algún fallo?",
     "image": "images/brbrUnLedPulsadorTricky.png",
-    "choice1": "Os cables non están nos terminais correctos do pulsador",
+    "choice1": "Os cable vermello non está nos terminais correctos do pulsador",
     "choice2": "O led está posto do revés",
     "choice3": "A resistencia non está conectada ao led",
     "choice4": "Non hai fallos, vai acender",
