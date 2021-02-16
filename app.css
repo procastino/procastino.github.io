@@ -11,9 +11,9 @@
   color: #333;
 }
 #cita {
-  font-size:2rem;
-  padding:2rem;
-  }
+  font-size: 2rem;
+  padding: 2rem;
+}
 h1,
 h2,
 h3,
@@ -127,4 +127,8 @@ input {
 
 input::placeholder {
   color: #aaa;
+}
+
+#menu .btn {
+  text-transform: capitalize;
 }
